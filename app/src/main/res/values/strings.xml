@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Investers</string>
+    <string name="market">Market</string>
+    <string name="News">News</string>
+    <string name="Calenders">Calenders</string>
+    <string name="Protfolio" tools:ignore="ExtraTranslation">Protfolio</string>
+    <string name="More">More</string>
+
+</resources>
